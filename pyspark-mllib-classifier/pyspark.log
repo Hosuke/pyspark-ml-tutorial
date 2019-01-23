@@ -1,0 +1,5 @@
+Training time: 22.165s
+Training pass: 10
+Time per pass: 2.2164891958236694
+Test areaUnderPR = 0.5813697393933818
+Test areaUnderROC = 0.5793367243864382

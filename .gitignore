@@ -1,0 +1,5 @@
+spark-mllib-test
+.idea
+sgc-work
+.gitignore
+*/.DS_Store
